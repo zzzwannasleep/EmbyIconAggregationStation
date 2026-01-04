@@ -1,6 +1,6 @@
 # Zzzの聚合图标站 -
 
-<img width="2559" height="1482" alt="image" src="https://github.com/user-attachments/assets/874c7ec0-25bf-45a7-9ee0-1a4903b47c09" />
+<img width="2559" height="1482" alt="image" src="https://github.com/ab2b69bf-0adb-427b-82da-c9db125d4928" />
 
 
 一个用于聚合多个 Gist 链接的图标站点，支持图标的同步更新与分享。可以输入多个 Gist 链接，生成一个聚合后的 JSON 链接，方便管理和查看图标。
