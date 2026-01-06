@@ -62,3 +62,5 @@
 ```bash
 git clone https://github.com/Zzzwannasleep/EmbyIconAggregationStation.git
 cd repository-name
+
+Note: The generated share link now ends with `.json` (e.g., `/share/<slug>.json`) for better client compatibility. Existing `/share/<slug>` links still work.
